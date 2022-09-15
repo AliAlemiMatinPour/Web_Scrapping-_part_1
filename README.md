@@ -1,5 +1,5 @@
 # Web_Scrapping-_part_1
-I'm doing web Scraping of the IDM website for the top best watch. I am using panda, and python libs such as beautiful soup, requests, and openpyxl. I am mining data from the front end HTML file and converting them into xlsx file.
+I'm doing web Scraping of the IDM website for the top best watch. I am using Jupyter Notebook, and python libs such as beautiful soup, requests, and openpyxl. I am mining data from the front end HTML file and converting them into xlsx file.
 
 # Python_Calendar 
 <img width="1000" align='center' src="https://raw.githubusercontent.com/harryworlds/harryworlds/main/mech_can_code.png">
